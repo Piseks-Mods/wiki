@@ -1,7 +1,7 @@
 | Food      |  Food points | Saturation restored | Effect(s)/"Tooltip" | Items |
 | --------- | ------------ | ------------------- | --------- | ----- |
 | Steakchop | 16 | 25.6 | None | Steak + Cooked Porkchop |
-| Steakcochop | 21 | 31.6 | None | Steak + Cooked Porkchop + Cooked Salmon |
+| Steakcochop | 21 | 31.6 | None | Steak + Cooked Porkchop + Cooked Cod |
 | Steakcochickchop | 27 | 38.8 | None | Steak + Cooked Porkchop + Cooked Salmon + Cooked Chicken |
 | Steakcochicarrochop | 30 | 42.4 | "actually doesn't look that bad!" | Steak + Cooked Porkchop + Cooked Salmon + Cooked Chicken + Carrot |
 | Steakcochicarrochopie | 32 | 42.8 | None | Steak + Cooked Porkchop + Cooked Salmon + Cooked Chicken + Carrot + Cookie |
