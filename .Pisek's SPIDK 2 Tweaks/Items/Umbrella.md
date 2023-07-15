@@ -16,6 +16,7 @@ An **Umbrella** is an item used from covering yourself from [[Acid Rain]].
 | Umbrella | Leather, Stick | [[umbrella_crafting.png]] | 
 
 # Usage
+
 Holding item in main- or off-hand during rain, item will block incoming source of [Poison](https://minecraft.fandom.com/wiki/Poison).
 
 # Data values

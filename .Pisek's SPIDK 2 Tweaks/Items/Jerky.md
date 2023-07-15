@@ -1,5 +1,5 @@
 ---
-tags: items, food
+tags: items, food, mod/tinkers_construct_2
 ---
 
 **Jerky** is a [food](https://minecraft.fandom.com/wiki/Food) item that can be eaten by the [player](https://minecraft.fandom.com/wiki/Player) without the risk of inflicting [Hunger](https://minecraft.fandom.com/wiki/Hunger_(status_effect)).
@@ -10,15 +10,18 @@ tags: items, food
 
 # Obtaining
 ## Smelting
+
 Jerky can be smelted from Rotten Flesh only on Campfire.
 
 # Usage
 ## Food
+
 To eat jerky, press and hold use while jerky is selected in the hotbar.
 
 Eating jerky restores 4 hunger points and 0.8 hunger saturation, but unlike [rotten flesh](https://minecraft.fandom.com/wiki/Rotten_Flesh) there is no chance of inflicting Hunger effect.
 
 ## Wolves
+
 Jerky can be used to breed and heal tamed [wolves](https://minecraft.fandom.com/wiki/Wolves), lead them around, and make baby tamed wolves grow up faster by 10 % of the remaining time.
 
 # Data values

@@ -1,5 +1,5 @@
 ---
-tags: blocks, utility/utilizable
+tags: blocks, utility/utilizable, mods/healing_campfire
 ---
 
 Healing Rune is stone-looking block.
@@ -9,9 +9,11 @@ Healing Rune is stone-looking block.
 | Healing Rune | No        | Yes (64)  | Pickaxe (Stone) | 6                | 1.5      | No       | No          | No        | Brewing             |
 
 # Obtaining
+
 Healing Rune can be mined using a [pickaxe](https://minecraft.fandom.com/wiki/Pickaxe), in which case it drops itself. If mined without pickaxe, it drops nothing. 
 
 ### Breaking time
+
 (Times are for unenchanted tools as wielded by players with no status effects, measured in seconds.)
 
 | Meterial    | Seconds |
@@ -32,6 +34,7 @@ Healing Rune can be mined using a [pickaxe](https://minecraft.fandom.com/wiki/Pi
 
 # Usage
 ## Effect
+
 When placed in world, it wouldn't do anything on its own. After placing a lit Soul Campfire on the rune, every entity in square cube with size `6` will get [Regeneration](https://minecraft.fandom.com/wiki/Regeneration) II for 1.25 sec.
 
 # Data values
