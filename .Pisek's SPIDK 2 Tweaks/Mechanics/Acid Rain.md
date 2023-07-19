@@ -15,4 +15,3 @@ If the player is not covered by blocks or has an umbrella, it receives negative 
 | 2.0     | Added Acid Rain.                                  |
 | 2.0t2   | Effect strenght and duration changed.             |
 | 2.2     | Effect strenght and duration is now configurable. | 
-

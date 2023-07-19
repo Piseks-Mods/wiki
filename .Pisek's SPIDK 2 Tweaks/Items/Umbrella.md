@@ -17,7 +17,7 @@ An **Umbrella** is an item used from covering yourself from [[Acid Rain]].
 
 # Usage
 
-Holding item in main- or off-hand during rain, item will block incoming source of [Poison](https://minecraft.fandom.com/wiki/Poison).
+Holding item in _main-_ or _off-hand_ during rain, item will block incoming source of [Poison](https://minecraft.fandom.com/wiki/Poison).
 
 # Data values
 ## ID
@@ -32,4 +32,3 @@ Holding item in main- or off-hand during rain, item will block incoming source o
 | ------- | ------------------- |
 | 2.0     | Added Umbrella.      |
 | 2.0t2   | Removed one stick from crafting recipe, making craftin more simmilar to other tool's recipes. | 
-

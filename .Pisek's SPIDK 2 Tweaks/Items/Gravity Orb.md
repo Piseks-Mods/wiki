@@ -20,7 +20,7 @@ Item is immune to fire.
 
 # Usage
 
-To enable flying, press Use button while Gravity Orb is selected in the hotbar.
+To enable flying, press _Use_ button while Gravity Orb is selected in the hotbar.
 
 After activating the orb will start glowing. When thrown away flying will be disabled and orb deactivated.
 

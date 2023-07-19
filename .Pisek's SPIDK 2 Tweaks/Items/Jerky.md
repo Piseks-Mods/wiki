@@ -16,7 +16,7 @@ Jerky can be smelted from Rotten Flesh only on Campfire.
 # Usage
 ## Food
 
-To eat jerky, press and hold use while jerky is selected in the hotbar.
+To eat jerky, press and hold _Use_ while jerky is selected in the hotbar.
 
 Eating jerky restores 4 hunger points and 0.8 hunger saturation, but unlike [rotten flesh](https://minecraft.fandom.com/wiki/Rotten_Flesh) there is no chance of inflicting Hunger effect.
 

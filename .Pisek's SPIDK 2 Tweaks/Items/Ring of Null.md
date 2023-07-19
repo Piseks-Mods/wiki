@@ -17,7 +17,7 @@ A **Ring of Null** is one and only survival-friendly way to transport [[Polished
 
 # Usage
 
-To pick up or place Polished Bedrock, press Use button while Ring of Null is selected in the hotbar.
+To pick up or place Polished Bedrock, press _Use_ button while Ring of Null is selected in the hotbar.
 
 The enchantment glint indicates if ring contains the block.
 

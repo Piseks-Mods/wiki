@@ -18,7 +18,7 @@ The **Squid Jet** is an item used for travelling.
 
 # Usage
 
-To launch yourself up, press Use button while Squid Jet is selected in the hotbar.
+To launch yourself up, press _Use_ button while Squid Jet is selected in the hotbar.
 
 Jet's strength is so big, launching yourself up without the proper gear ([Elytra](https://minecraft.fandom.com/wiki/Elytra) or [[Chicken Wings]]) can lead to death to fall damage.
 
