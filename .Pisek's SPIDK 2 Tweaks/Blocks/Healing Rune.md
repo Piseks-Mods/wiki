@@ -1,5 +1,5 @@
 ---
-tags: blocks, utility/utilizable, mods/healing_campfire
+tags: blocks/utility/utilizable, mod/healing_campfire
 ---
 
 Healing Rune is stone-looking block.

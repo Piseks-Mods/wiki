@@ -1,5 +1,5 @@
 ---
-tags: items, weapons
+tags: items/weapons
 ---
 
 A **Gods Message** is a rare, uncraftable "scroll" that grants powerful effects when consumed.

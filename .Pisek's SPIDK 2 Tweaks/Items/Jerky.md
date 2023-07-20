@@ -1,5 +1,5 @@
 ---
-tags: items, food, mod/tinkers_construct_2
+tags: items/food, mod/tinkers_construct_2
 ---
 
 **Jerky** is a [food](https://minecraft.fandom.com/wiki/Food) item that can be eaten by the [player](https://minecraft.fandom.com/wiki/Player) without the risk of inflicting [Hunger](https://minecraft.fandom.com/wiki/Hunger_(status_effect)).

@@ -1,5 +1,5 @@
 ---
-tags: effects, health
+tags: effects/health
 ---
 
 **Gods Gift** is an [effect](https://minecraft.fandom.com/wiki/Effect) that inflicts permanent [damage](https://minecraft.fandom.com/wiki/Damage) after expiring.

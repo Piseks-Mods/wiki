@@ -1,5 +1,5 @@
 ---
-tags: items, tools, mod/extra_utilities_2, curio/body
+tags: items/tools, mod/extra_utilities_2, curio/body
 ---
 
 The **Chicken Wings** is an item used for safe landing.

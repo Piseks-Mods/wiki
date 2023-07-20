@@ -1,5 +1,5 @@
 ---
-tags: items, tools, mod/extra_utilities_2
+tags: items/tools, mod/extra_utilities_2
 ---
 
 The **Squid Jet** is an item used for travelling.

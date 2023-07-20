@@ -1,5 +1,5 @@
 ---
-tags: items, tools
+tags: items/tools
 ---
 
 An **Umbrella** is an item used from covering yourself from [[Acid Rain]].

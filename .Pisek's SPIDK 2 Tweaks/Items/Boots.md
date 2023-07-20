@@ -1,5 +1,5 @@
 ---
-tags: items, armor
+tags: items/armor
 ---
 
 **Leggings** are a type of [armor](https://minecraft.fandom.com/wiki/Armor) that covers the feet of the player. There are added three types of helmets: **Wooden**, **Leaf** and **Cum-filled**.

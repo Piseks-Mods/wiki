@@ -1,5 +1,5 @@
 ---
-tags: items, utility, curio/ring, ring
+tags: items/utility, curio/ring, ring
 ---
 
 A **Ring of Fortune** is adventurer's handy accessory when looting chests and barrels.

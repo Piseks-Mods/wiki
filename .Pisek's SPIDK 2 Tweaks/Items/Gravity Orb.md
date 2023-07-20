@@ -1,5 +1,5 @@
 ---
-tags: items, tools, mod/extra_utilities_2
+tags: items/tools, mod/extra_utilities_2
 ---
 
 The **Gravity Orb** is an item allowing creative flight.

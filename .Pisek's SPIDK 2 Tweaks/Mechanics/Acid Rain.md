@@ -1,5 +1,5 @@
 ---
-tags: environment, weather, mod/acid_rain
+tags: environment/weather, mod/acid_rain
 ---
 
 **Acid rain** is an addition to [Vanilla Rain](https://minecraft.fandom.com/wiki/Rain).

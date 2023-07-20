@@ -1,5 +1,5 @@
 ---
-tags: items, tools, ring
+tags: items/tools, ring
 ---
 
 A **Ring of Null** is one and only survival-friendly way to transport [[Polished Bedrock]].

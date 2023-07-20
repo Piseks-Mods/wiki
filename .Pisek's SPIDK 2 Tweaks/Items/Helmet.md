@@ -1,5 +1,5 @@
 ---
-tags: items, armor
+tags: items/armor
 ---
 
 **Helmets** are a type of [armor](https://minecraft.fandom.com/wiki/Armor) that covers the head of the player. There are added two types of helmets: **Wooden**, **Leaf**.
