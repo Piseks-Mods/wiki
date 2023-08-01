@@ -2,7 +2,7 @@
 tags: commands
 ---
 
-Returns player's time.
+Resets or queries player's time.
 
 | Command | Permission level required | Restrictions |
 | ------- | ------------------------- | ------------ |

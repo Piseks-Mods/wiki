@@ -8,7 +8,7 @@ One every 20 minutes, one day, is added to the day counter. Sleeping does not ad
 
 # Watch
 
-Watches allows the player to determine the current _player's_ time. Very useful when waiting for some key time frame.
+[[Watch|Watches]] allows the player to determine the current _player's_ time. Very useful when waiting for some key time frame.
 
 # Commands
 

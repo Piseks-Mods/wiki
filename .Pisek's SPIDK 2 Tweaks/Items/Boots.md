@@ -23,9 +23,9 @@ tags: items/armor
 ## Repairing
 ### Grinding
 
-| Ingredients         | Grinding recipe                 | Note                                                                                |
-| ------------------- | ------------------------------- | ----------------------------------------------------------------------------------- |
-| 2x Damaged Bootss | [[matching_armor_grinding.png]] | The durability of the two boots are added together, plus an extra 5 % durability. |
+| Ingredients      | Grinding recipe                 | Note                                                                              |
+| ---------------- | ------------------------------- | --------------------------------------------------------------------------------- |
+| 2x Damaged Boots | [[matching_armor_grinding.png]] | The durability of the two boots are added together, plus an extra 5 % durability. |
 
 ### Unit repair
 

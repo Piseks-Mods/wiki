@@ -16,8 +16,11 @@ tags: blocks/natural/liquid
 | Cum Bucket | Cum in Bottle, Bucket | [[cum_bucket_crafting.png]] |
 
 # Usage
+## Crafting
 
-Nothing comes to my mind.
+| Name          | Ingredients              | Crafting recipe                |
+| ------------- | ------------------------ | ------------------------------ |
+| Cum in Bottle | Cum Bucket, Glass Bottle | [[cum_in_bottle_crafting.png]] |
 
 # Data values
 # ID
@@ -28,7 +31,8 @@ Nothing comes to my mind.
 
 # History
 
-| Version | Change                 |
-| ------- | ---------------------- |
-| 2.0     | Added Cum fluid.       |
-| 2.0t2   | Changed fluid's stats. |
+| Version | Change                                 |
+| ------- | -------------------------------------- |
+| 2.0     | Added Cum fluid.                       |
+| 2.0t2   | Changed fluid's stats.                 |
+| 2.1     | Backported crafting recipe for bottle. | 
