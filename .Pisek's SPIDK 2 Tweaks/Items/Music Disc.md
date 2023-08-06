@@ -14,9 +14,9 @@ tags: items/aesthetic
 | Item                                    | Structure       | Container        | Quantity | Chance                                              |
 | --------------------------------------- | --------------- | ---------------- | -------- | --------------------------------------------------- |
 | Music Disc vs. SAYU                     | Buried treasure | Chest            | 0-1      | 50%                                                 |
-| Music Disc Scootin' through Clocktowers | Clocktowers     | Clocktower Vault | 1        | 100% _Looter must have Dolphin's Grace_             |
-| Music Disc Dreamy Clocktowers           | Clocktowers     | Clocktower Vault | 1        | 100% _Must be night of thunderstorm during looting_ |
-| Music Disc Clocktowers                  | Clocktowers     | Clocktower Vault | 1        | 100%                                                     |
+| Music Disc Scootin' through Clocktowers | [[Clocktowers]] | [[Clocktower Vault]] | 1        | 100% _Looter must have Dolphin's Grace_             |
+| Music Disc Dreamy Clocktowers           | [[Clocktowers]] | [[Clocktower Vault]] | 1        | 100% _Must be night of thunderstorm during looting_ |
+| Music Disc Clocktowers                  | [[Clocktowers]] | [[Clocktower Vault]] | 1        | 100%                                                |
 
 ## Crafting
 ### Smithing table
