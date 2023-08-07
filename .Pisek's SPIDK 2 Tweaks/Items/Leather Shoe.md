@@ -1,5 +1,5 @@
 ---
-tags: items/processed
+tags: items/processed, items/joke
 ---
 
 A **Leather Shoe** is a crafting ingredient.

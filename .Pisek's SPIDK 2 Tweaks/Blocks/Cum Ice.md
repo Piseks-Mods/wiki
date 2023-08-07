@@ -1,5 +1,5 @@
 ---
-tags: blocks/natural/liquid
+tags: blocks/natural/liquid, blocks/joke_features
 ---
 
 **Cum Ice** is a solid block similar to [packed ice](https://minecraft.fandom.com/wiki/Packed_ice "Packed ice") and [ice](https://minecraft.fandom.com/wiki/Ice "Ice").

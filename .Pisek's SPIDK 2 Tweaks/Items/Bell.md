@@ -1,5 +1,5 @@
 ---
-tags: items/aesthetic
+tags: items/aesthetic, items/joke
 ---
 
 A bell is a portable version of [Bell (block)](https://minecraft.fandom.com/wiki/Bell). Unlike vanilla verion, bell can be crafted.

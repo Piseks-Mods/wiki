@@ -1,5 +1,5 @@
 ---
-tags: items/weapons
+tags: items/weapons, items/joke
 ---
 
 

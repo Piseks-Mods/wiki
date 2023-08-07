@@ -1,5 +1,5 @@
 ---
-tags: items/food
+tags: items/food, items/joke
 ---
 
 **Cumínky** is a [food](https://minecraft.fandom.com/wiki/Food) item that can be eaten by the [player](https://minecraft.fandom.com/wiki/Player).

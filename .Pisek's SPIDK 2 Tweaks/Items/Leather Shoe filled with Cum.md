@@ -1,1 +1,1 @@
-Redirection to: [[Leather Shoe]]
+*Redirection to: [[Leather Shoe]]*

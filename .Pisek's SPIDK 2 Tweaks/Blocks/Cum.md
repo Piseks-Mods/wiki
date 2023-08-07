@@ -1,5 +1,5 @@
 ---
-tags: blocks/natural/liquid
+tags: blocks/natural/liquid, blocks/joke_features
 ---
 
 **Cum** is a [fluid](https://minecraft.fandom.com/wiki/Fluid) with high density.
