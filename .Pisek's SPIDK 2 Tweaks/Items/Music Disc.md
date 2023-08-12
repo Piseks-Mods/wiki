@@ -53,7 +53,7 @@ Being hit by lightning while it's not raining gives you a Music Disc Waiting for
 
 After finishing program on [[Computer]], Music Disc world.execute (me); will be ejected.
 
-For getting Music Disc sustain++; player must build [[Computer Golem]] and finish the program.
+For getting Music Disc sustain++; player must build [[Computer#Golem|Computer Golem]] and finish the program.
 
 # Discs
 
